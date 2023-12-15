@@ -1,0 +1,63 @@
+Donor ID,Cognitive status,Braak stage,ADNC,Age at Death,Sex,Highest level of education,Years of education,APOE4 Status,Overall AD neuropathological Change,Thal,Braak,CPS
+H21.33.035,No dementia,Braak V,High,90,Female,High School,14,N,High,Thal 5,Braak V,0.376970226
+H20.33.014,No dementia,Braak IV,Intermediate,82,Female,Graduate (PhD/Masters),16,N,Intermediate,Thal 3,Braak IV,0.678277043
+H21.33.015,No dementia,Braak IV,Low,90,Male,High School,12,N,Low,Thal 2,Braak IV,0.230780762
+H20.33.033,Dementia,Braak VI,High,68,Male,Graduate (PhD/Masters),18,N,High,Thal 5,Braak VI,0.874937976
+H21.33.005,Dementia,Braak V,Intermediate,90,Male,Bachelors,16,N,Intermediate,Thal 3,Braak V,0.575734635
+H20.33.031,Dementia,Braak VI,High,87,Female,High School,12,N,High,Thal 4,Braak VI,0.777858645
+H21.33.036,No dementia,Braak V,High,90,Female,Trade School/ Tech School,14,N,High,Thal 4,Braak V,0.690040907
+H21.33.002,Dementia,Braak VI,High,70,Female,Graduate (PhD/Masters),18,Y,High,Thal 5,Braak VI,0.856821169
+H20.33.025,No dementia,Braak V,High,90,Male,High School,12,N,High,Thal 4,Braak V,0.588881872
+H21.33.047,No dementia,Braak V,Intermediate,90,Male,Professional,21,N,Intermediate,Thal 2,Braak V,0.224783433
+H21.33.040,No dementia,Braak V,High,83,Male,Bachelors,17,Y,High,Thal 4,Braak V,0.74451789
+H20.33.001,No dementia,Braak IV,Low,82,Male,Bachelors,16,N,Low,Thal 2,Braak IV,0.522888828
+H21.33.026,No dementia,Braak V,High,90,Female,Bachelors,16,Y,High,Thal 4,Braak V,0.749598881
+H21.33.008,Dementia,Braak V,High,90,Female,Bachelors,16,N,High,Thal 4,Braak V,0.79034705
+H20.33.046,Dementia,Braak VI,High,90,Male,Professional,21,N,High,Thal 5,Braak VI,0.868382665
+H20.33.040,Dementia,Braak IV,Intermediate,90,Male,Trade School/ Tech School,13,N,Intermediate,Thal 4,Braak IV,0.438826934
+H20.33.002,No dementia,Braak IV,Not AD,90,Female,High School,12,N,Not AD,Thal 0,Braak IV,0.206549371
+H20.33.026,Dementia,Braak VI,High,75,Female,High School,12,Y,High,Thal 4,Braak VI,0.906842533
+H19.33.004,No dementia,Braak IV,Not AD,80,Female,Bachelors,17,N,Not AD,Thal 0,Braak IV,0.302312776
+H20.33.020,Dementia,Braak VI,High,81,Male,High School,12,Y,High,Thal 5,Braak VI,0.928512537
+H20.33.018,Dementia,Braak VI,High,81,Female,Graduate (PhD/Masters),21,Y,High,Thal 5,Braak VI,0.89607397
+H21.33.004,No dementia,Braak II,Not AD,90,Male,Graduate (PhD/Masters),18,N,Not AD,Thal 0,Braak II,0.261644762
+H20.33.044,No dementia,Braak V,Not AD,81,Male,Graduate (PhD/Masters),19,N,Not AD,Thal 0,Braak V,0.355631884
+H20.33.012,No dementia,Braak III,Low,90,Female,Graduate (PhD/Masters),18,N,Low,Thal 1,Braak III,0.237009997
+H21.33.041,No dementia,Braak IV,Not AD,90,Female,High School,12,N,Not AD,Thal 0,Braak IV,0.303751417
+H21.33.014,No dementia,Braak IV,Intermediate,90,Male,Trade School/ Tech School,15,N,Intermediate,Thal 4,Braak IV,0.754185193
+H21.33.044,Dementia,Braak VI,Intermediate,88,Female,Trade School/ Tech School,15,N,Intermediate,Thal 3,Braak VI,0.844797956
+H20.33.028,Dementia,Braak V,High,90,Female,Trade School/ Tech School,12,N,High,Thal 4,Braak V,0.814933639
+H21.33.010,Dementia,Braak VI,High,90,Female,High School,13,N,High,Thal 5,Braak VI,0.821793345
+H21.33.046,Dementia,Braak V,High,90,Male,Professional,17,N,High,Thal 4,Braak V,0.765703597
+H21.33.029,Dementia,Braak V,High,89,Male,Graduate (PhD/Masters),18,Y,High,Thal 5,Braak V,0.910112215
+H21.33.037,No dementia,Braak IV,Low,88,Female,Graduate (PhD/Masters),18,N,Low,Thal 2,Braak IV,0.180318628
+H20.33.017,Dementia,Braak VI,High,69,Male,Trade School/ Tech School,14,N,High,Thal 4,Braak VI,0.790026228
+H21.33.007,Dementia,Braak V,High,86,Female,Professional,21,N,High,Thal 4,Braak V,0.723363962
+H20.33.015,Dementia,Braak V,Intermediate,88,Male,Graduate (PhD/Masters),18,N,Intermediate,Thal 3,Braak V,0.878967566
+H20.33.005,No dementia,Braak IV,Intermediate,90,Female,High School,12,N,Intermediate,Thal 3,Braak IV,0.760780881
+H20.33.004,Dementia,Braak V,High,86,Male,Trade School/ Tech School,15,Y,High,Thal 5,Braak V,0.725005699
+H21.33.032,No dementia,Braak IV,Low,90,Female,Bachelors,16,N,Low,Thal 2,Braak IV,0.380411215
+H20.33.011,Dementia,Braak V,High,90,Female,Bachelors,16,Y,High,Thal 5,Braak V,0.810864943
+H21.33.042,Dementia,Braak V,High,90,Female,Trade School/ Tech School,15,Y,High,Thal 5,Braak V,0.850064912
+H20.33.016,Dementia,Braak IV,Intermediate,90,Female,Trade School/ Tech School,14,N,Intermediate,Thal 4,Braak IV,0.616531087
+H21.33.023,No dementia,Braak IV,Not AD,90,Male,High School,12,N,Not AD,Thal 0,Braak IV,0.296555035
+H20.33.029,Dementia,Braak V,High,90,Female,High School,13,N,High,Thal 4,Braak V,0.612831699
+H20.33.032,No dementia,Braak V,High,90,Male,Bachelors,17,N,High,Thal 5,Braak V,0.818040808
+H21.33.039,Dementia,Braak V,High,88,Female,High School,13,N,High,Thal 4,Braak V,0.729331972
+H20.33.035,No dementia,Braak IV,Not AD,90,Female,Bachelors,16,N,Not AD,Thal 0,Braak IV,0.204485489
+H20.33.037,Dementia,Braak V,High,90,Female,Graduate (PhD/Masters),20,N,High,Thal 5,Braak V,0.891215423
+H20.33.045,Dementia,Braak VI,High,77,Female,Graduate (PhD/Masters),18,Y,High,Thal 5,Braak VI,0.922353884
+H21.33.031,Dementia,Braak V,High,84,Male,Graduate (PhD/Masters),18,Y,High,Thal 5,Braak V,0.834626692
+H21.33.028,No dementia,Braak II,Low,72,Male,Bachelors,16,N,Low,Thal 1,Braak II,0.300177146
+H20.33.013,No dementia,Braak IV,Intermediate,90,Male,Trade School/ Tech School,14,N,Intermediate,Thal 3,Braak IV,0.847210162
+H20.33.027,No dementia,Braak IV,Intermediate,90,Female,High School,17,N,Intermediate,Thal 3,Braak IV,0.625950796
+H21.33.027,Dementia,Braak V,High,90,Male,Graduate (PhD/Masters),18,Y,High,Thal 5,Braak V,0.687187072
+H21.33.003,No dementia,Braak 0,Not AD,78,Male,Bachelors,16,N,Not AD,Thal 0,Braak 0,0.238033394
+H20.33.019,No dementia,Braak III,Intermediate,87,Female,Trade School/ Tech School,15,Y,Intermediate,Thal 4,Braak III,0.728160721
+H21.33.017,Dementia,Braak V,High,90,Female,Bachelors,16,N,High,Thal 5,Braak V,0.680216044
+H21.33.045,Dementia,Braak VI,High,90,Female,High School,12,Y,High,Thal 4,Braak VI,0.924064541
+H20.33.024,No dementia,Braak V,Intermediate,90,Male,Graduate (PhD/Masters),19,N,Intermediate,Thal 4,Braak V,0.323638945
+H21.33.009,Dementia,Braak VI,High,65,Female,Bachelors,16,Y,High,Thal 5,Braak VI,0.911019291
+H21.33.038,No dementia,Braak III,Low,84,Female,High School,15,N,Low,Thal 1,Braak III,0.182369814
+H21.33.033,No dementia,Braak V,High,83,Female,Trade School/ Tech School,14,Y,High,Thal 5,Braak V,0.899911521
+H21.33.030,No dementia,Braak III,Intermediate,89,Male,Bachelors,17,Y,Intermediate,Thal 3,Braak III,0.252442597
